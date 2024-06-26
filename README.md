@@ -1,10 +1,12 @@
+Here is my code for burn and mint functions for my_token
+
 pragma solidity 0.8.18;
 
-contract MyToken {
+contract deepak_token {
 
     // public variables here
-    string public name = "MyToken";
-    string public symbol = "MTK";
+    string public name = "DeepakToken";
+    string public symbol = "DTK";
     uint256 public totalSupply = 0;
 
     // mapping variable here
